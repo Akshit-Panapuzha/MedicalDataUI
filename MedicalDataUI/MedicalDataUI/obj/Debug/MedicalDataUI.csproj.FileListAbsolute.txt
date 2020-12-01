@@ -1,0 +1,12 @@
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\bin\Debug\MedicalDataUI.exe
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\bin\Debug\MedicalDataUI.pdb
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\bin\Debug\MedicalDataUI.exe.config
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.Bill.resources
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.Claim.resources
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.Claimant.resources
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.MainForm.resources
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.Properties.Resources.resources
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.csproj.GenerateResource.cache
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.exe
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.pdb
+C:\MedicalBills\MedicalDataUI\MedicalDataUI\obj\Debug\MedicalDataUI.csprojAssemblyReference.cache
